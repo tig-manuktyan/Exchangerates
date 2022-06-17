@@ -1,0 +1,40 @@
+.ant-select:not(.ant-select-customize-input) .ant-select-selector,.ant-btn-dangerous,.ant-input{
+    background-color: transparent !important;
+    color: #FFFFFF !important;
+    border-color: #02B6E7 !important;
+    text-align: center;
+}
+
+.ant-select,.ant-input {
+    width: 200px !important;
+}
+.mainBlock{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+}
+.reverseBTn{
+    align-self: flex-end;
+}
+.resultBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+    color: #02B6E7 !important;
+}
+.textColor{
+    color: #FFFFFF !important;
+}

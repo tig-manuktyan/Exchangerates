@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url('./../assets/images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#root{
+    background-color: rgba(0,0,0,0.3);
+    width: 33%;
+    padding: 20px;
+    border-radius: 20px;
+}
