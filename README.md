@@ -1,2 +1,2 @@
 # Exchangerates
-<img src="" />
+<img src="./src/assets/images/background.png" />
